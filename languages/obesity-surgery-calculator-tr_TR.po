@@ -1,0 +1,14 @@
+msgid "Obesity Surgery Eligibility Calculator"
+msgstr "Obezite Ameliyatı Uygunluk Hesaplayıcısı"
+
+msgid "Body Mass Index (BMI):"
+msgstr "Vücut Kitle İndeksi (BMI):"
+
+msgid "Check Eligibility"
+msgstr "Uygunluğu Kontrol Et"
+
+msgid "Age:"
+msgstr "Yaş:"
+
+msgid "Do you have any of the following health conditions? (e.g., Diabetes, Sleep Apnea)"
+msgstr "Aşağıdaki sağlık durumlarından herhangi birine sahip misiniz? (ör. Diyabet, Uyku Apnesi)"

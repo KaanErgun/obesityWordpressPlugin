@@ -1,0 +1,46 @@
+#ose-calculator {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#ose-calculator form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#ose-calculator label {
+    font-weight: bold;
+}
+
+#ose-calculator input, 
+#ose-calculator select, 
+#ose-calculator button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+#ose-calculator button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#ose-calculator button:hover {
+    background-color: #45a049;
+}
+
+#ose-result {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}

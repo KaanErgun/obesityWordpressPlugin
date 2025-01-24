@@ -1,0 +1,14 @@
+msgid "Obesity Surgery Eligibility Calculator"
+msgstr "Obesity Surgery Eligibility Calculator"
+
+msgid "Body Mass Index (BMI):"
+msgstr "Body Mass Index (BMI):"
+
+msgid "Check Eligibility"
+msgstr "Check Eligibility"
+
+msgid "Age:"
+msgstr "Age:"
+
+msgid "Do you have any of the following health conditions? (e.g., Diabetes, Sleep Apnea)"
+msgstr "Do you have any of the following health conditions? (e.g., Diabetes, Sleep Apnea)"
