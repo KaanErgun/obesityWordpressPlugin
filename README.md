@@ -86,7 +86,7 @@ To add translations:
 
 For issues or feature requests, please contact the plugin developer at:
 - **Author**: Kaan
-- **Website**: [Your Website](https://yourwebsite.com)
+- **Website**: [Your Website](https://kaanergun.com)
 
 ---
 

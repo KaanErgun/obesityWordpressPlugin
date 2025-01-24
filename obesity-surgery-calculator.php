@@ -3,7 +3,7 @@
  * Plugin Name: Obesity Surgery Eligibility Calculator
  * Description: A WordPress plugin to calculate eligibility for obesity surgery.
  * Version: 1.0.0
- * Author: Kaan
+ * Author: KaanErgun
  */
 
 // Prevent direct access
